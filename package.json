@@ -1,0 +1,24 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "Write unit tests for a JavaScript app. Use AAA pattern for unit tests. Explain why testing code is important.",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frnega/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frnega/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/frnega/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
