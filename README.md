@@ -12,8 +12,7 @@ Explain why testing code is important.
  
 ## Built With
 ### Major languages
-- HTML
-- CSS
+
 - Javascript
 
 ### Technologies used
